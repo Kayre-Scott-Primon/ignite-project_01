@@ -17,6 +17,7 @@ export const styles = StyleSheet.create({
       fontSize: 16
     }, 
     input: {
+      flex: 1,
         height: 56,
         backgroundColor: '#1f1e25',
         borderRadius: 5,
@@ -41,7 +42,7 @@ export const styles = StyleSheet.create({
         width: '100%',
         flexDirection: 'row',
         marginTop: 36,
-        marginBottom: 32
+        marginBottom: 32,
     },
     listEmptyText: {
       color: '#fff',
