@@ -1,7 +1,7 @@
 
 # Ignite - Projeto 01
 
-Projeto para estudos a primeira parte da trilha de React Native do curso Ignite da RocketSeat
+Projeto para estudos a primeira parte da trilha de React Native do curso Ignite da Rocketseat
 
 
 ![rocketseat](https://www.rocketseat.com.br/assets/logos/rocketseat.svg)
